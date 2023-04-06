@@ -1,0 +1,1 @@
+?- write('Hello World'),nl,write('Welcome to Prolog'),nl.
